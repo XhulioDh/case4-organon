@@ -4,6 +4,8 @@
 
 Xhulio Anastasis Dhespollari · Version 1.0 · 27 October 2026
 
+**[Read the full report (PDF)](case4_organon.pdf)**
+
 One evaluator model read each of 150 AI-generated answers to five personal-decision questions twice: once under a brief general instruction to judge the answer on ethical grounds, and once under Organon, a detailed six-lens ethical framework. The study was pre-registered on 16 July 2026. This repository holds the write-up, the instruments and prompts, and the records behind every figure, so that the case can be checked and reproduced.
 
 ### Summary
