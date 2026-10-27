@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="443.586656pt" height="235.684pt" viewBox="0 0 443.586656 235.684" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T09:40:10.549696</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 235.684 
+L 443.586656 235.684 
+L 443.586656 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 97.632 210.384 
+L 280.944 210.384 
+L 280.944 72.576 
+L 97.632 72.576 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m108224a10e" d="M 0 0 
+L 0 3 
+" style="stroke: #7a7a7a; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m108224a10e" x="97.632" y="210.384" style="fill: #7a7a7a; stroke: #7a7a7a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #7a7a7a" x="97.632" y="223.048" transform="rotate(-0 97.632 223.048)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m108224a10e" x="189.288" y="210.384" style="fill: #7a7a7a; stroke: #7a7a7a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #7a7a7a" x="189.288" y="223.048" transform="rotate(-0 189.288 223.048)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m108224a10e" x="280.944" y="210.384" style="fill: #7a7a7a; stroke: #7a7a7a; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #7a7a7a" x="280.944" y="223.048" transform="rotate(-0 280.944 223.048)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="89.632" y="94.164" transform="rotate(-0 89.632 94.164)">professor</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="89.632" y="119.684" transform="rotate(-0 89.632 119.684)">pregnancy</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="89.632" y="145.204" transform="rotate(-0 89.632 145.204)">teacher (control)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="89.632" y="170.724" transform="rotate(-0 89.632 170.724)">diary</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="89.632" y="196.244" transform="rotate(-0 89.632 196.244)">medicine</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <path d="M 97.632 77.68 
+L 97.632 205.28 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #cfcfcf; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 97.632 210.384 
+L 280.944 210.384 
+" style="fill: none; stroke: #cfcfcf; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 97.632 85.8464 
+L 256.563504 85.8464 
+L 256.563504 95.0336 
+L 97.632 95.0336 
+z
+" clip-path="url(#p654b51e0dc)" style="fill: #8a8f94"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="291.744" y="92.996" transform="rotate(-0 291.744 92.996)">26 of 30</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="342.144" y="92.996" transform="rotate(-0 342.144 92.996)">86.7%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="385.344" y="92.996" transform="rotate(-0 385.344 92.996)">70.3 to 94.7</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 97.632 111.3664 
+L 207.6192 111.3664 
+L 207.6192 120.5536 
+L 97.632 120.5536 
+z
+" clip-path="url(#p654b51e0dc)" style="fill: #8a8f94"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="291.744" y="118.516" transform="rotate(-0 291.744 118.516)">18 of 30</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="342.144" y="118.516" transform="rotate(-0 342.144 118.516)">60.0%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="385.344" y="118.516" transform="rotate(-0 385.344 118.516)">42.3 to 75.4</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 97.632 136.8864 
+L 195.337296 136.8864 
+L 195.337296 146.0736 
+L 97.632 146.0736 
+z
+" clip-path="url(#p654b51e0dc)" style="fill: #8a8f94"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="291.744" y="144.036" transform="rotate(-0 291.744 144.036)">16 of 30</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="342.144" y="144.036" transform="rotate(-0 342.144 144.036)">53.3%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="385.344" y="144.036" transform="rotate(-0 385.344 144.036)">36.1 to 69.8</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 97.632 162.4064 
+L 183.238704 162.4064 
+L 183.238704 171.5936 
+L 97.632 171.5936 
+z
+" clip-path="url(#p654b51e0dc)" style="fill: #8a8f94"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="291.744" y="169.556" transform="rotate(-0 291.744 169.556)">14 of 30</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="342.144" y="169.556" transform="rotate(-0 342.144 169.556)">46.7%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="385.344" y="169.556" transform="rotate(-0 385.344 169.556)">30.2 to 63.9</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 97.632 187.9264 
+L 158.674896 187.9264 
+L 158.674896 197.1136 
+L 97.632 197.1136 
+z
+" clip-path="url(#p654b51e0dc)" style="fill: #8a8f94"/>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="291.744" y="195.076" transform="rotate(-0 291.744 195.076)">10 of 30</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="342.144" y="195.076" transform="rotate(-0 342.144 195.076)">33.3%</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="385.344" y="195.076" transform="rotate(-0 385.344 195.076)">19.2 to 51.2</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="291.744" y="68.601633" transform="rotate(-0 291.744 68.601633)">divergent</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="385.344" y="68.61" transform="rotate(-0 385.344 68.61)">Wilson 95%</text>
+   </g>
+   <g id="line2d_10">
+    <path d="M 226.500336 90.44 
+L 271.228464 90.44 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 226.500336 88.1432 
+L 226.500336 92.7368 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 271.228464 88.1432 
+L 271.228464 92.7368 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 175.172976 115.96 
+L 235.849248 115.96 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 175.172976 113.6632 
+L 175.172976 118.2568 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 235.849248 113.6632 
+L 235.849248 118.2568 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 163.807632 141.48 
+L 225.583776 141.48 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 163.807632 139.1832 
+L 163.807632 143.7768 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 225.583776 139.1832 
+L 225.583776 143.7768 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 152.992224 167 
+L 214.768368 167 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 152.992224 164.7032 
+L 152.992224 169.2968 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 214.768368 164.7032 
+L 214.768368 169.2968 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 132.827904 192.52 
+L 191.487744 192.52 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 132.827904 190.2232 
+L 132.827904 194.8168 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 191.487744 190.2232 
+L 191.487744 194.8168 
+" clip-path="url(#p654b51e0dc)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 13px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="10.8" y="21.272109" transform="rotate(-0 10.8 21.272109)">Divergence by question</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="10.8" y="42.008" transform="rotate(-0 10.8 42.008)">Pairs with different verdicts, of 30 per question; lines: Wilson 95% intervals</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p654b51e0dc">
+   <rect x="97.632" y="72.576" width="183.312" height="137.808"/>
+  </clipPath>
+ </defs>
+</svg>

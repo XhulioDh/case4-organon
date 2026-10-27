@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="392.112pt" height="388.641048pt" viewBox="0 0 392.112 388.641048" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T09:40:12.157104</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 388.641048 
+L 392.112 388.641048 
+L 392.112 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 104.544 329.616 
+L 381.312 329.616 
+L 381.312 73.008 
+L 104.544 73.008 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 106.38912 74.71872 
+L 148.82688 74.71872 
+L 148.82688 114.06528 
+L 106.38912 114.06528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ffffff; stroke: #cfcfcf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 152.51712 74.71872 
+L 194.95488 74.71872 
+L 194.95488 114.06528 
+L 152.51712 114.06528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #efded5"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 198.64512 74.71872 
+L 241.08288 74.71872 
+L 241.08288 114.06528 
+L 198.64512 114.06528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #dfb7a2"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 244.77312 74.71872 
+L 287.21088 74.71872 
+L 287.21088 114.06528 
+L 244.77312 114.06528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #d8a68d"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 290.90112 74.71872 
+L 333.33888 74.71872 
+L 333.33888 114.06528 
+L 290.90112 114.06528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ecd6ca"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 337.02912 74.71872 
+L 379.46688 74.71872 
+L 379.46688 114.06528 
+L 337.02912 114.06528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #dfb7a2"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 106.38912 117.48672 
+L 148.82688 117.48672 
+L 148.82688 156.83328 
+L 106.38912 156.83328 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #efded5"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 152.51712 117.48672 
+L 194.95488 117.48672 
+L 194.95488 156.83328 
+L 152.51712 156.83328 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ffffff; stroke: #cfcfcf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 198.64512 117.48672 
+L 241.08288 117.48672 
+L 241.08288 156.83328 
+L 198.64512 156.83328 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e6c8b8"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 244.77312 117.48672 
+L 287.21088 117.48672 
+L 287.21088 156.83328 
+L 244.77312 156.83328 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e2bdaa"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 290.90112 117.48672 
+L 333.33888 117.48672 
+L 333.33888 156.83328 
+L 290.90112 156.83328 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #f6efea"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 337.02912 117.48672 
+L 379.46688 117.48672 
+L 379.46688 156.83328 
+L 337.02912 156.83328 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e5c5b4"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 106.38912 160.25472 
+L 148.82688 160.25472 
+L 148.82688 199.60128 
+L 106.38912 199.60128 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #dfb7a2"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 152.51712 160.25472 
+L 194.95488 160.25472 
+L 194.95488 199.60128 
+L 152.51712 199.60128 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e6c8b8"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 198.64512 160.25472 
+L 241.08288 160.25472 
+L 241.08288 199.60128 
+L 198.64512 199.60128 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ffffff; stroke: #cfcfcf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 244.77312 160.25472 
+L 287.21088 160.25472 
+L 287.21088 199.60128 
+L 244.77312 199.60128 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #944b2a"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 290.90112 160.25472 
+L 333.33888 160.25472 
+L 333.33888 199.60128 
+L 290.90112 199.60128 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #edd9ce"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 337.02912 160.25472 
+L 379.46688 160.25472 
+L 379.46688 199.60128 
+L 337.02912 199.60128 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #9b502d"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 106.38912 203.02272 
+L 148.82688 203.02272 
+L 148.82688 242.36928 
+L 106.38912 242.36928 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #d8a68d"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 152.51712 203.02272 
+L 194.95488 203.02272 
+L 194.95488 242.36928 
+L 152.51712 242.36928 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e2bdaa"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 198.64512 203.02272 
+L 241.08288 203.02272 
+L 241.08288 242.36928 
+L 198.64512 242.36928 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #944b2a"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 244.77312 203.02272 
+L 287.21088 203.02272 
+L 287.21088 242.36928 
+L 244.77312 242.36928 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ffffff; stroke: #cfcfcf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 290.90112 203.02272 
+L 333.33888 203.02272 
+L 333.33888 242.36928 
+L 290.90112 242.36928 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e9d0c2"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 337.02912 203.02272 
+L 379.46688 203.02272 
+L 379.46688 242.36928 
+L 337.02912 242.36928 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #7a3a1d"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 106.38912 245.79072 
+L 148.82688 245.79072 
+L 148.82688 285.13728 
+L 106.38912 285.13728 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ecd6ca"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 152.51712 245.79072 
+L 194.95488 245.79072 
+L 194.95488 285.13728 
+L 152.51712 285.13728 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #f6efea"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 198.64512 245.79072 
+L 241.08288 245.79072 
+L 241.08288 285.13728 
+L 198.64512 285.13728 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #edd9ce"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 244.77312 245.79072 
+L 287.21088 245.79072 
+L 287.21088 285.13728 
+L 244.77312 285.13728 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e9d0c2"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 290.90112 245.79072 
+L 333.33888 245.79072 
+L 333.33888 285.13728 
+L 290.90112 285.13728 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ffffff; stroke: #cfcfcf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 337.02912 245.79072 
+L 379.46688 245.79072 
+L 379.46688 285.13728 
+L 337.02912 285.13728 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ecd6ca"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 106.38912 288.55872 
+L 148.82688 288.55872 
+L 148.82688 327.90528 
+L 106.38912 327.90528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #dfb7a2"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 152.51712 288.55872 
+L 194.95488 288.55872 
+L 194.95488 327.90528 
+L 152.51712 327.90528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #e5c5b4"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 198.64512 288.55872 
+L 241.08288 288.55872 
+L 241.08288 327.90528 
+L 198.64512 327.90528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #9b502d"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 244.77312 288.55872 
+L 287.21088 288.55872 
+L 287.21088 327.90528 
+L 244.77312 327.90528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #7a3a1d"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 290.90112 288.55872 
+L 333.33888 288.55872 
+L 333.33888 327.90528 
+L 290.90112 327.90528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ecd6ca"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 337.02912 288.55872 
+L 379.46688 288.55872 
+L 379.46688 327.90528 
+L 337.02912 327.90528 
+z
+" clip-path="url(#pa0ff813eb2)" style="fill: #ffffff; stroke: #cfcfcf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; fill: #222222" transform="translate(95.599862 360.24979) rotate(-35)">Glaciation</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; fill: #222222" transform="translate(152.254734 352.878795) rotate(-35)">Misfire</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; fill: #222222" transform="translate(181.998606 364.344364) rotate(-35)">Typecasting</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; fill: #222222" transform="translate(211.008823 376.337085) rotate(-35)">False Confidence</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; fill: #222222" transform="translate(272.447351 365.616538) rotate(-35)">Mere Means</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; fill: #222222" transform="translate(329.259078 358.128991) rotate(-35)">Usurping</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="101.044" y="97.724" transform="rotate(-0 101.044 97.724)">Glaciation</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="101.044" y="140.492" transform="rotate(-0 101.044 140.492)">Misfire</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="101.044" y="183.26" transform="rotate(-0 101.044 183.26)">Typecasting</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="101.044" y="226.028" transform="rotate(-0 101.044 226.028)">False Confidence</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="101.044" y="268.796" transform="rotate(-0 101.044 268.796)">Mere Means</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="font-size: 8.5px; font-family: 'TeX Gyre Heros'; text-anchor: end; fill: #222222" x="101.044" y="311.564" transform="rotate(-0 101.044 311.564)">Usurping</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="127.608" y="94.38192" transform="rotate(-0 127.608 94.38192)">29</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #555555" x="127.608" y="104.9336" transform="rotate(-0 127.608 104.9336)">lens total</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="173.736" y="96.948" transform="rotate(-0 173.736 96.948)">8</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="219.864" y="96.948" transform="rotate(-0 219.864 96.948)">22</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="265.992" y="96.948" transform="rotate(-0 265.992 96.948)">28</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="312.12" y="96.948" transform="rotate(-0 312.12 96.948)">11</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="358.248" y="96.948" transform="rotate(-0 358.248 96.948)">22</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="127.608" y="139.716" transform="rotate(-0 127.608 139.716)">8</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="173.736" y="137.14992" transform="rotate(-0 173.736 137.14992)">21</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #555555" x="173.736" y="147.7016" transform="rotate(-0 173.736 147.7016)">lens total</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="219.864" y="139.716" transform="rotate(-0 219.864 139.716)">16</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="265.992" y="139.716" transform="rotate(-0 265.992 139.716)">20</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="312.12" y="139.716" transform="rotate(-0 312.12 139.716)">2</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="358.248" y="139.716" transform="rotate(-0 358.248 139.716)">17</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="127.608" y="182.484" transform="rotate(-0 127.608 182.484)">22</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="173.736" y="182.484" transform="rotate(-0 173.736 182.484)">16</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="219.864" y="179.91792" transform="rotate(-0 219.864 179.91792)">79</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #555555" x="219.864" y="190.4696" transform="rotate(-0 219.864 190.4696)">lens total</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #ffffff" x="265.992" y="182.484" transform="rotate(-0 265.992 182.484)">66</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="312.12" y="182.484" transform="rotate(-0 312.12 182.484)">10</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #ffffff" x="358.248" y="182.484" transform="rotate(-0 358.248 182.484)">63</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="127.608" y="225.252" transform="rotate(-0 127.608 225.252)">28</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="173.736" y="225.252" transform="rotate(-0 173.736 225.252)">20</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #ffffff" x="219.864" y="225.252" transform="rotate(-0 219.864 225.252)">66</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="265.992" y="222.68592" transform="rotate(-0 265.992 222.68592)">109</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #555555" x="265.992" y="233.2376" transform="rotate(-0 265.992 233.2376)">lens total</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="312.12" y="225.252" transform="rotate(-0 312.12 225.252)">13</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #ffffff" x="358.248" y="225.252" transform="rotate(-0 358.248 225.252)">78</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="127.608" y="268.02" transform="rotate(-0 127.608 268.02)">11</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="173.736" y="268.02" transform="rotate(-0 173.736 268.02)">2</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="219.864" y="268.02" transform="rotate(-0 219.864 268.02)">10</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="265.992" y="268.02" transform="rotate(-0 265.992 268.02)">13</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="312.12" y="265.45392" transform="rotate(-0 312.12 265.45392)">14</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #555555" x="312.12" y="276.0056" transform="rotate(-0 312.12 276.0056)">lens total</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="358.248" y="268.02" transform="rotate(-0 358.248 268.02)">11</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="127.608" y="310.788" transform="rotate(-0 127.608 310.788)">22</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="173.736" y="310.788" transform="rotate(-0 173.736 310.788)">17</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #ffffff" x="219.864" y="310.788" transform="rotate(-0 219.864 310.788)">63</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #ffffff" x="265.992" y="310.788" transform="rotate(-0 265.992 310.788)">78</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="312.12" y="310.788" transform="rotate(-0 312.12 310.788)">11</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 9px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #222222" x="358.248" y="308.22192" transform="rotate(-0 358.248 308.22192)">97</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7px; font-family: 'TeX Gyre Heros'; text-anchor: middle; fill: #555555" x="358.248" y="318.7736" transform="rotate(-0 358.248 318.7736)">lens total</text>
+   </g>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 13px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #222222" x="10.8" y="21.291406" transform="rotate(-0 10.8 21.291406)">Lenses failing together</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 9.5px; font-family: 'TeX Gyre Heros'; text-anchor: start; fill: #555555" x="10.8" y="43.52" transform="rotate(-0 10.8 43.52)">Thick (Organon) evaluations, of 150, failing both lenses; diagonal: lens totals</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa0ff813eb2">
+   <rect x="104.544" y="73.008" width="276.768" height="256.608"/>
+  </clipPath>
+ </defs>
+</svg>

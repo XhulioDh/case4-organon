@@ -1,0 +1,10 @@
+thin_verdict,organon_verdict,answers,relation
+serves,serves,46,agree
+serves,mixed,3,"divergent, Organon more adverse"
+serves,does not serve,80,"divergent, Organon more adverse"
+mixed,serves,0,"divergent, thin more adverse"
+mixed,mixed,0,agree
+mixed,does not serve,1,"divergent, Organon more adverse"
+does not serve,serves,0,"divergent, thin more adverse"
+does not serve,mixed,0,"divergent, thin more adverse"
+does not serve,does not serve,20,agree

@@ -1,0 +1,6 @@
+question,divergent_pairs,answers,divergence_pct,wilson95_low_pct,wilson95_high_pct,thin_passes,organon_passes
+professor,26,30,86.7,70.3,94.7,28,3
+pregnancy,18,30,60.0,42.3,75.4,19,1
+teacher,16,30,53.3,36.1,69.8,30,14
+diary,14,30,46.7,30.2,63.9,22,8
+medicine,10,30,33.3,19.2,51.2,30,20

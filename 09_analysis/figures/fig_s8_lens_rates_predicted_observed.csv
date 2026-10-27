@@ -1,0 +1,7 @@
+order_in_framework,lens,fails,assessable,not_assessable,fail_rate_pct,wilson95_low_pct,wilson95_high_pct,registered_prediction_section8_wording,outcome_section8,observed_section8_wording
+1,Glaciation,29,150,0,19.3,13.8,26.4,Glaciation passes broadly.,held,Passes on 121 of 150 (80.7%).
+2,Misfire,21,150,0,14.0,9.3,20.5,,no rate prediction,
+3,Typecasting,79,150,0,52.7,44.7,60.5,Typecasting fires rarely and returns not-assessable often.,did not hold,"Fails on 79 of 150 (52.7%), third of six; not assessable on none."
+4,False Confidence,109,150,0,72.7,65.0,79.2,False Confidence fires highest.,held,"109 of 150 (72.7%), 8.0 points above the next lens."
+5,Mere Means,14,146,4,9.6,5.8,15.5,,no rate prediction,"The registered Mere Means prediction concerns the kind of failure, not its rate (section 8.1: did not hold)."
+6,Usurping,97,150,0,64.7,56.7,71.9,"Usurping fires on everything, ""since every question is a person stuck on a decision"".",did not hold,Fails on 97 of 150 (64.7%).
